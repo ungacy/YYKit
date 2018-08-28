@@ -2160,7 +2160,7 @@ typedef NS_ENUM(NSUInteger, YYTextMoveDirection) {
     [self _updateSelectionView];
     
     if (self.isFirstResponder) {
-        [self _scrollRangeToVisible:_selectedTextRange];
+        //[self _scrollRangeToVisible:_selectedTextRange];
     }
     
     if ([self.delegate respondsToSelector:@selector(textViewDidChange:)]) {
