@@ -282,6 +282,17 @@ static yy_net_interface_counter yy_get_net_interface_counter() {
             @"iPhone9,2" : @"iPhone 7 Plus",
             @"iPhone9,3" : @"iPhone 7",
             @"iPhone9,4" : @"iPhone 7 Plus",
+            @"iPhone10,1": @"iPhone 8",          // CDMA
+            @"iPhone10,2": @"iPhone 8 Plus",     // CDMA
+            @"iPhone10,3": @"iPhone X",          // CDMA
+            @"iPhone10,4": @"iPhone 8",          // GSM
+            @"iPhone10,5": @"iPhone 8 Plus",     // GSM
+            @"iPhone10,6": @"iPhone X",          // GSM
+            @"iPhone11,2": @"iPhone XS",         //
+            @"iPhone11,4": @"iPhone XS Max",     //
+            @"iPhone11,6": @"iPhone XS Max",     // China
+            @"iPhone11,8": @"iPhone XR",         //
+
             
             @"iPad1,1" : @"iPad 1",
             @"iPad2,1" : @"iPad 2 (WiFi)",
